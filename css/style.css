@@ -1,0 +1,148 @@
+#first{
+  text-align: center;
+}
+span{
+  display: block;
+}
+.top{
+  border-left: black 2px solid;
+  margin-left: 50%;
+  padding-bottom: 5%;
+}
+#head{
+  text-align: center;
+  margin-left: 42%;
+}
+#java{
+  text-align: center;
+  margin-left: 23%;
+  width: 60%;
+  color: white;
+  font-size: 30px;
+  display: none;
+}
+.side{
+  border: solid black 2px;
+  width: 100%;
+  border-bottom: none;
+  padding: 5%;
+  padding-bottom: 3%;
+}
+.left{
+  margin-left: -5%;
+}
+.right{
+  margin-top: -7%;
+  margin-left: 93%;
+}
+#def{
+  text-align: center;
+  margin-left: -15%;
+  width: 60%;
+  color: white;
+  font-size: 30px;
+  display: none;
+}
+#pri{
+  text-align: center;
+  margin-top: 1%;
+  margin-left: 64%;
+  width: 60%;
+  color: white;
+  font-size: 30px;
+  display: none; 
+}
+.attch{
+  border-left: 2px black solid;
+  padding-bottom: 7%;
+  margin-left: 99.85%;
+  margin-top: -3%;
+}
+.multiple{
+  border: solid black 2px;
+  width: 100%;
+  border-bottom: none;
+  padding: 5%;
+  padding-bottom: 0%;
+  display: flex;
+}
+.top2{
+  border: 2px black solid;
+  border-bottom: none;
+  border-top: none;
+  padding: 10%;
+  padding-bottom: 3%;
+  margin-top: -5.6%;
+  margin-right: 25%;
+}
+.ltop{
+  margin-left: 16%;
+}
+.num{
+  margin-left: -7%;
+}
+.string{
+  margin-left: 8.7%;
+}
+.boo{
+  margin-left: 6%;
+}
+.null{
+  margin-left: 11%;
+}
+.und{
+  margin-left: 6%;
+}
+.sym{
+  margin-left: 95%;
+  margin-top: -7%;
+}
+#numdef{
+  text-align: center;
+  margin-left: -20%;
+  width: 60%;
+  color: white;
+  font-size: 30px;
+  display: none; 
+}
+#stridef{
+  text-align: center;
+  margin-left: 7%;
+  width: 60%;
+  color: white;
+  font-size: 30px;
+  display: none; 
+}
+#boodef{
+  text-align: center;
+  margin-left: 7%;
+  width: 60%;
+  color: white;
+  font-size: 30px;
+  display: none; 
+}
+#nulldef{
+  text-align: center;
+  margin-left: 25%;
+  width: 60%;
+  color: white;
+  font-size: 30px;
+  display: none; 
+}
+#unddef{
+  text-align: center;
+  margin-left: 40%;
+  width: 60%;
+  color: white;
+  font-size: 30px;
+  display: none; 
+}
+#symdef{
+  text-align: center;
+  margin-left: 50%;
+  margin-top: 2%;
+  width: 60%;
+  color: white;
+  font-size: 30px;
+  display: none; 
+}
